@@ -1,7 +1,7 @@
 {
 	"name": "user-friendly-date",
-	"version": "1.1.0",
-	"description": "Shows the amount of time between two dates in a user-fiendly way.",
+	"version": "1.1.1",
+	"description": "Shows the amount of time between two dates in a user-friendly way.",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
