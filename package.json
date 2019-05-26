@@ -1,0 +1,22 @@
+{
+	"name": "user-friendly-date",
+	"version": "1.0.0",
+	"description": "Shows the amount of time between two dates in a user-fiendly way.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Vehmloewff/user-friendly-date.git"
+	},
+	"keywords": [
+		"user-friendly"
+	],
+	"author": "Vehmloewff",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Vehmloewff/user-friendly-date/issues"
+	},
+	"homepage": "https://github.com/Vehmloewff/user-friendly-date#readme"
+}
